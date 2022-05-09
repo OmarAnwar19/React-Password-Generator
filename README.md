@@ -1,7 +1,2 @@
-
-## React Password Generator
-
-You can check out the application here [React Password Generator](https://fervent-volhard-f2991a.netlify.app/).
-
-
-
+ Cybersecurity is immensily important and often overlooked. This react app which allows users to generate secure, complex passwords, solves this issue, in a simple, and practical way. 
+ 
